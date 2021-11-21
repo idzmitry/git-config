@@ -1,0 +1,31 @@
+[user]
+	name = Dmitry
+	email = xxxx@yyyy.ru
+[alias]
+	s = status
+	st = stash
+	sta = stash apply
+	stm = stash -m
+	co = checkout
+	cob = checkout -b
+	puo = push origin
+	pufo = push --force origin
+	comm = commit -m
+	commend = commit --amend --no-edit
+	rh1 = reset --soft HEAD~1
+	rh2 = reset --soft HEAD~2
+	rh3 = reset --soft HEAD~3
+	reseth = reset --hard
+	l = log
+	l1 = log -1
+	l2 = log -2
+	l3 = log -3
+	l4 = log -4
+	l5 = log -5
+	l10 = log -10
+	rb = rebase
+	spop = stash pop
+	d = diff
+	ds = diff --staged
+	adal = add --all
+	p = pull
